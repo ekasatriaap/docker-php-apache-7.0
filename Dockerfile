@@ -15,6 +15,7 @@ RUN apt-get install -y \
     libfreetype6-dev \
     libjpeg62-turbo-dev \
     libpng-dev \
+    libwebp-dev \
     libmcrypt-dev \
     libxml2-dev \
     libicu-dev \
